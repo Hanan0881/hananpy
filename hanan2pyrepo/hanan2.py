@@ -1,0 +1,7 @@
+name =input ("what is your name? ")
+age = (input("what is your age? "))
+gender = input("what is your gender? ")
+print("Hello, " + name)
+print("You are " + age + " years old.")
+print("You are " + gender + ".")
+print("Welcome to my program!")
